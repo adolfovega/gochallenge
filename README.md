@@ -32,5 +32,5 @@ In case you are unable to download above dependencies, check your proxy settings
 
 4. Run the app
 
-- go run main.go
+- go run github.com/adolfovega/gochallenge/main.go
 
