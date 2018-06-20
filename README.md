@@ -1,12 +1,13 @@
 # gochallenge
 
-1. Prerequisites: 
+1. Prerequisites for Windows: 
 
 - Install Go version 1.10.3
 - Install PostgreSQL 10.4 version for windows (we use "postgres" for default user and P@ssw0rd as default password)
 - Add postgresql instance to your PATH. In a command line execute:
 
   set PATH=%PATH%;C:\Program Files\PostgreSQL\10\bin
+
 
 2. Get dependencies. 
 
