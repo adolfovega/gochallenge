@@ -130,6 +130,6 @@ func main() {
 	router.POST("/v1/tasks", CreateTask)
 	router.DELETE("/v1/tasks/:task_id", RemoveTask)
 
-	router.Run(":8013") // Default listen and serve on 0.0.0.0:8000
+	router.Run(":8000") // Default listen and serve on 0.0.0.0:8000
 }
 
